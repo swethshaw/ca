@@ -1,0 +1,3 @@
+Name: John Doe
+Father's Name: David Doe
+Area of Specialization: AI & Machine Learning
